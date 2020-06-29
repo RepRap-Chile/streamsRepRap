@@ -1,2 +1,4 @@
 # Proyecto Rep Rap Chile
-mantenido por la comunidad rep rap
+Repositorio mantenido por la comunidad rep rap
+
+![](LOGO_reprap-chile_1mx1m.png)
