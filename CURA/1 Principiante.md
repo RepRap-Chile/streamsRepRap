@@ -1,7 +1,7 @@
 # Uso Principiante de Cura:
 - [ ] Interfaz
-- [ ] Importar Modelos
-  - [ ] Formatos soportados
+- [ ] Formatos 3D y 2D soportados
+- [ ] Importar Modelos 3D
 - [ ] Segmentar
 - [ ] Configuración Recomendada de parámetros
 - [ ] Imprimir
