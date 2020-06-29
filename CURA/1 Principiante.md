@@ -1,8 +1,8 @@
-# Uso Básico de Cura:
+# Uso Principiante de Cura:
 - [ ] Interfaz
 - [ ] Importar Modelos
   - [ ] Formatos soportados
 - [ ] Segmentar
-- [ ] Configuración Básica de parámetros
+- [ ] Configuración Recomendada de parámetros
 - [ ] Imprimir
 
