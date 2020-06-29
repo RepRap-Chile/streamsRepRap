@@ -1,5 +1,5 @@
-# Uso Intermedio de Cura:
-- [ ] Configuración de parámetros (custom)
+# Uso Básico de Cura:
+- [ ] Configuración de parámetros (custom, selección: básica)
   - [ ] Calidad
   - [ ] Perimetro
   - [ ] Relleno
@@ -9,6 +9,6 @@
   - [ ] Ventilador
   - [ ] Soportes
   - [ ] Adhesion
-  - [ ] Especial
+
   
   
