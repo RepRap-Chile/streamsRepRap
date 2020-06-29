@@ -9,3 +9,7 @@
   - [ ] Ventilador
   - [ ] Soportes
   - [ ] Adhesion
+  - [ ] Dual
+  - [ ] Especial  
+
+  
