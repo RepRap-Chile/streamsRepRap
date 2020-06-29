@@ -9,5 +9,6 @@
   - [ ] Ventilador
   - [ ] Soportes
   - [ ] Adhesion
-
+  - [ ] Especial
+  
   
