@@ -9,3 +9,6 @@
   - [ ] Ventilador
   - [ ] Soportes
   - [ ] Adhesion
+  - [ ] Dual
+  - [ ] Espcial
+  - [ ] Experimental
