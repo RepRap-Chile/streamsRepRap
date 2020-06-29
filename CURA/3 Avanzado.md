@@ -9,7 +9,7 @@
   - [ ] Ventilador
   - [ ] Soportes
   - [ ] Adhesion
-  - [ ] Dual
-  - [ ] Especial  
-
+  - [ ] Dual + Per model setting
+  - [ ] Especial: Secuencia, superficie, espiral
+  - [ ] Experimental: capas adaptativas
   
