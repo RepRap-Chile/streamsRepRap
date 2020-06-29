@@ -10,5 +10,6 @@
   - [ ] Soportes
   - [ ] Adhesion
   - [ ] Dual
-  - [ ] Espcial
-  - [ ] Experimental
+  - [ ] Mesh  
+  - [ ] Especial: molde
+  - [ ] Experimental: soporte arbol, shield, spaghetti, fuzzy, wipe
