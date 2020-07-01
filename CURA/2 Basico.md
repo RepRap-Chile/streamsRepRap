@@ -9,6 +9,8 @@
   - [ ] Ventilador
   - [ ] Soportes
   - [ ] Adhesion
+  
+  - [ ] Tests de impresora!  
 
   
   
